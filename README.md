@@ -4,4 +4,4 @@ Python Excel Automations is a repository containing Python scripts for automatin
 
 Whether you're a data analyst, business analyst, or just someone who wants to automate their Excel tasks, this repository has something for everyone. You'll find examples of how to filter, sort, and pivot data in Excel, as well as how to create charts and graphs using Matplotlib and Seaborn.  With Python Excel Automations, you can say goodbye to manual data entry and tedious Excel tasks. Instead, you can focus on analyzing and visualizing your data to gain valuable insights. 
 
-So why wait? Clone this repository and start automating your Excel workflows today!
+#### So why wait? Clone this repository and start automating your Excel workflows today!  check out www.timothypesi.com
